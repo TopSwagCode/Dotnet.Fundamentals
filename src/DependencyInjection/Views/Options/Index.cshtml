@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Options";
+}
+
+<p>
+    <h1>Database:</h1>
+    <ul>
+        <li>Username: @ViewBag.Username</li>
+        <li>Password: @ViewBag.Password</li>
+        <li>Hostname: @ViewBag.Hostname</li>
+        <li>Port: @ViewBag.Port</li>
+    </ul>
+</p>
+<p>
+    <h1>External:</h1>
+    <ul>
+        <li>Connectionstring: @ViewBag.ConnectionString</li>
+    </ul>
+</p>
+<p>
+    Read more here: <i>https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-5.0</i>
+</p>
