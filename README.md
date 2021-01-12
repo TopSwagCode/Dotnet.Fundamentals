@@ -2,7 +2,7 @@
 
 This is a small repository sharing some example projects for Dotnet fundamentals. Some might be posted as a youtube clip as well. All guides will contain links to documentation, if you want to dig deeper.
 
-# Dependency Injaction
+# Dependency Injection
 
 [![DependencyInjection](di-preview.png)](https://www.youtube.com/watch?v=_oZ1M5dbWPU)
 
